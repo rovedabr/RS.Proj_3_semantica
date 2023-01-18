@@ -2,7 +2,7 @@
 
 ## Treinos exclusivos para você!
 
-Projeto de introdução a programação HTML e CCS.
+Projeto de programação HTML e CCS, inclusão de semântica.
 
 - Estruturação semântica;
 - Importância da semântica e acessibilidade
