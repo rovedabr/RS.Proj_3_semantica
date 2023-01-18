@@ -1,4 +1,4 @@
-# Projeto 02 - Semanântica
+# Projeto 03 - Semanântica
 
 ## Treinos exclusivos para você!
 
